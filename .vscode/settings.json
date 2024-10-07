@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/wsl.localhost/Ubuntu/home/jeremy/code/cpptcop_tut/libtcod/libtcod-1.24.0-x86_64",
+    "files.associations": {
+        "*.tcc": "cpp"
+    }
+}
